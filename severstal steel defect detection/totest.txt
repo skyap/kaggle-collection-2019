@@ -1,0 +1,8 @@
+https://github.com/qubvel/segmentation_models
+https://github.com/0bserver07/One-Hundred-Layers-Tiramisu
+https://github.com/nicolov/segmentation_keras
+https://github.com/aitorzip/Keras-ICNet
+https://github.com/matterport/Mask_RCNN
+https://github.com/sadeepj/crfasrnn_keras
+https://github.com/bonlime/keras-deeplab-v3-plus
+https://github.com/divamgupta/image-segmentation-keras
