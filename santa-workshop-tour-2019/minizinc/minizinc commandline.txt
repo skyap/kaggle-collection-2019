@@ -1,0 +1,2 @@
+minizinc --solver org.gecode.gecode santa2.mzn santa_n_people.dzn santa_choice.dzn -o a.txt -v
+minizinc --solver chuffed santa2.mzn santa_n_people.dzn santa_choice.dzn -o a.txt -v --allow-multiple-assignments
